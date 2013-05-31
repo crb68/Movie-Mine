@@ -1,0 +1,62 @@
+/*
+Casey Balzer
+cs1666
+3-4-13
+moviemine style
+*/
+
+.head{
+ position: relative;
+ margin: 0;
+ padding: 0;
+ top: 0%;
+  left: -1%;
+  width: 101.5%; 
+  height: 25%;
+  color:#0066FF;
+background-image:url('film_banner.jpg');
+  border: 0;
+  color: 'white';
+  overflow:hidden;
+}
+
+.bdy{
+ position: relative;
+ margin: 0;
+ padding: 0;
+ top: 0%;
+  left: 0%;
+  width: 101.5%; 
+  height: 75%;
+  
+background-image:url('bedge_grunge.png');
+  border: 0;
+  color: 'white';
+  overflow:hidden;
+}
+
+.sel{
+ position: relative;
+ margin: 0;
+ padding: 0;
+ top: -30%;
+  left: 25%;
+  width: 50%; 
+  height: 35%;
+  
+  border: 2px solid;
+  color: 'white';
+  overflow:hidden;
+}
+.mov{
+ position: relative;
+ margin: 0;
+ padding: 0;
+ top: -25%;
+  left: 10%;
+  width: 80%; 
+  height: 40%;
+  border: 2px solid;
+  color: 'white';
+  overflow:scroll;
+}
